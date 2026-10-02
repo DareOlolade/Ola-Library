@@ -1,4 +1,4 @@
-# mdblog
+# Ola library
 
 A minimal, monochrome markdown blog. Drop a `.md` file into `posts/`, it shows up — no build step, no database, no CMS.
 
